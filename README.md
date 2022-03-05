@@ -35,3 +35,12 @@
 
 ![image](https://user-images.githubusercontent.com/100911466/156876812-af5248f6-a587-4c71-a28a-799032d4e3ae.png)
 
+9. A common state name in Brazil and Mexico
+
+![image](https://user-images.githubusercontent.com/100911466/156892429-f98e96d2-4797-47c8-8a79-b488862ef2fa.png)
+
+10. Common crimes in Chicago and Austin
+
+![image](https://user-images.githubusercontent.com/100911466/156892451-4d5ac8ef-de1d-4ca0-bfc9-ccf7ba31a6cb.png)
+
+
