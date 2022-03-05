@@ -1,0 +1,8 @@
+SELECT state_name, avg(area_deprivation_index_percent) as Area_Deprivation_Index_Percent
+FROM `bigquery-public-data.broadstreet_adi.area_deprivation_index_by_census_block_group` 
+group by 1
+order by 2 desc
+SELECT state_name, avg(area_deprivation_index_percent) as Area_Deprivation_Index_Percent
+FROM `bigquery-public-data.broadstreet_adi.area_deprivation_index_by_census_block_group` 
+group by 1
+order by 2 desc
