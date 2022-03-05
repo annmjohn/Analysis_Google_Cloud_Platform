@@ -1,0 +1,5 @@
+SELECT mx.state_name 
+FROM `properati-data-public.properties_mx.properties_rent_201504` as mx
+join `properati-data-public.properties_br.properties_rent_201503` as br
+on mx.state_name=br.state_name 
+group by mx.state_name
