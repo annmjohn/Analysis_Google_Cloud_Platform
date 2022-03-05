@@ -1,0 +1,4 @@
+SELECT subscriber_type, count(subscriber_type) as Number
+FROM `bigquery-public-data.san_francisco_bikeshare.bikeshare_trips` 
+group by 1
+order by 2 desc 
